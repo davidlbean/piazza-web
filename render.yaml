@@ -16,4 +16,4 @@ services:
   databases:
     - name: piazza-db
       plan: free
-      # postgresMajorVersion: 14
+      postgresMajorVersion: 14
